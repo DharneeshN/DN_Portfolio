@@ -74,21 +74,21 @@ const projects = [
     id: "project1",
     name: "Expense Tracker App",
     skills: ["ReactJS, Redux, Material UI, Formik"],
-    // url: "https://github.com/gkkrish123",
+    // url: "https://github.com/DharneeshN",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project2",
     name: "ND Portfolio",
     skills: ["ReactJS, EmailJs, TS Particles"],
-    // url: "https://github.com/gkkrish123",
+    // url: "https://github.com/DharneeshN",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project3",
     name: "Fee Management System",
     skills: ["Java, SpringBoot, AngularJS, MySQL"],
-    // url: "https://github.com/gkkrish123",
+    // url: "https://github.com/DharneeshN",
   },
 ];
 // Edit your Miscellaneous Activities, its name and the url.
@@ -100,25 +100,22 @@ const miscellaneous = [
   //   // Add image in './styles/images.css' in #misc1
   //   id: "misc1",
   //   name: "Programming",
-  //   // url: "https://github.com/gkkrish123",
+  //   // url: "https://github.com/DharneeshN",
   // },
   {
     // Add image in './styles/images.css' in #misc2
     id: "misc2",
     name: "Technology",
-    // url: "https://github.com/gkkrish123",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc3",
     name: "Automobile",
-    // url: "https://github.com/gkkrish123",
   },
   {
     // Add image in './styles/images.css' in #misc3
     id: "misc4  ",
     name: "Stock Market",
-    // url: "https://github.com/gkkrish123",
   },
 ];
 // Contact form text, and Formspree link(to send a submit contact through their API as in contact.js)
