@@ -50,7 +50,7 @@ const Header = () => {
   return (
     <div>
       <div className="Header">
-        <h1>HOLA !</h1>
+        <h1>HOLA ! <span class="wave">👋</span></h1>
         <h2>{`I'm ${header.name}`}</h2>
         <br />
         <br/>

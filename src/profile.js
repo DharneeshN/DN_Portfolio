@@ -80,7 +80,7 @@ const projects = [
     // Add image in './styles/images.css' in #project3
     id: "project2",
     name: "ND Portfolio",
-    skills: ["ReactJS, Google sheets API, TS Particles"],
+    skills: ["ReactJS, EmailJs, TS Particles"],
     // url: "https://github.com/gkkrish123",
   },
   {
