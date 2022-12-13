@@ -5,7 +5,7 @@ import { projects, miscellaneous, section3Title, section4Title, social } from '.
 const Works = () => {
     return (
         <>
-            <div data-aos="zoom-in-up" data-aos-once="true" className="third">
+            <div id="works" data-aos="zoom-in-up" data-aos-once="true" className="third">
                 <>
                     <div className="pp-head-line mx-auto text-center">
                         <h1 id="Projects" className="red-line pp-head">{section3Title}</h1>

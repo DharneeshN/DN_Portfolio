@@ -586,11 +586,23 @@ input:checked + .slider:before {
   }
   .see {
     margin: 0;
-    position: absolute;
+    position:float;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    font-size: 1rem;
+  }
+  .container{
+    display: flex;                  /* establish flex container */
+    flex-direction: row;            /* default value; can be omitted */
+    justify-content: space-between; 
+    align-content: center;
+    padding: 8%;
+    padding-left:25px;
+    
+  }
+
+  .name{
+    margin-bottom: 100px;
   }
   .fa-eye {
     font-size: 20px;

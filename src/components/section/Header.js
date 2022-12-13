@@ -51,8 +51,10 @@ const Header = () => {
     <div>
       <div className="Header">
         <h1>HOLA ! <span class="wave">👋</span></h1>
-        <h2>{`I'm ${header.name}`}</h2>
+        <h2 className="name">{`I'm ${header.name}`}</h2>
         <br />
+        <br/>
+        <br/>
         <br/>
         <p className="line-1 anim-typewriter">FRONT END DEVELOPER</p>
         <DayNightToggle
@@ -60,6 +62,8 @@ const Header = () => {
           onChange={(e) => toggleDarkMode(e)}
           checked={isDarkMode}
         />
+        <br/>
+        <br/> 
         <HeaderButton />
       </div>
       <img

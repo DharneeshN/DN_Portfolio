@@ -5,3 +5,11 @@
     --primary-color:  #e96224;
     --hover-color:  #ff6600;
 }
+.container {
+    display: flex;                  /* establish flex container */
+    flex-direction: row;            /* default value; can be omitted */
+    /* justify-content: space-between;  */
+    align-content: center;
+    align-items: center;
+    padding-left: 230px;
+  }
