@@ -359,7 +359,7 @@ textarea:focus {
 .Copy {
   color: #fff !important;
   font-weight: 500;
-  padding-top: 2%;
+  padding-top: 8%;
 }
 .project-name {
   text-decoration: none;
@@ -581,9 +581,6 @@ input:checked + .slider:before {
     top: 87%;
     height: 75px;
   }
-  .Copy {
-    display: none;
-  }
   .see {
     margin: 0;
     position:float;
@@ -600,7 +597,7 @@ input:checked + .slider:before {
     padding-left:25px;
     
   }
-
+  
   .name{
     margin-bottom: 100px;
   }
